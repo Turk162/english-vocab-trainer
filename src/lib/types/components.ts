@@ -77,3 +77,25 @@ export interface RatingButtonsProps {
   disabled?: boolean;
   className?: string;
 }
+
+// Review Session Types
+export interface ProgressBarProps {
+  current: number;
+  total: number;
+  className?: string;
+}
+
+export interface SessionStats {
+  total: number;
+  reviewed: number;
+  again: number;
+  hard: number;
+  good: number;
+  easy: number;
+}
+
+export interface ReviewSummaryProps {
+  stats: SessionStats;
+  onReviewMore: () => void;
+  onGoHome: () => void;
+}
