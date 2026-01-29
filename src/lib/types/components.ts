@@ -1,4 +1,6 @@
 import { InputHTMLAttributes, ReactNode } from 'react';
+import { Card } from './card';
+import { Rating } from 'ts-fsrs';
 
 // Button Component Types
 export type ButtonVariant = 'primary' | 'secondary' | 'danger';
@@ -58,5 +60,20 @@ export interface MobileMenuProps {
 }
 
 export interface HeaderProps {
+  className?: string;
+}
+
+// FlashCard Component Types
+export interface FlashCardProps {
+  card: Card;
+  isFlipped: boolean;
+  onFlip: () => void;
+  disabled?: boolean;
+  className?: string;
+}
+
+export interface RatingButtonsProps {
+  onRate: (rating: Rating) => void;
+  disabled?: boolean;
   className?: string;
 }
