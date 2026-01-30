@@ -34,6 +34,7 @@ export class StorageService {
       // Converti le date da stringhe a Date objects
       return cards.map((card: any) => ({
         ...card,
+        tags: Array.isArray(card.tags) ? card.tags : [],
         createdAt: new Date(card.createdAt),
         updatedAt: new Date(card.updatedAt),
         fsrsData: {
@@ -165,6 +166,7 @@ export class StorageService {
     // Converti date strings a Date objects
     const cards = data.cards.map((card: any) => ({
       ...card,
+      tags: Array.isArray(card.tags) ? card.tags : [],
       createdAt: new Date(card.createdAt),
       updatedAt: new Date(card.updatedAt),
       fsrsData: {

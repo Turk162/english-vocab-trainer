@@ -162,6 +162,43 @@ export class CardService {
   }
 
   /**
+   * Filtra card per multipli tag con logica AND/OR
+   */
+  async getByTags(tags: string[], mode: 'any' | 'all' = 'any'): Promise<Card[]> {
+    if (tags.length === 0) return this.getAll();
+
+    const allCards = await this.getAll();
+
+    return allCards.filter(card => {
+      if (mode === 'any') {
+        // OR: card ha almeno uno dei tag
+        return tags.some(tag => card.tags.includes(tag));
+      } else {
+        // AND: card ha tutti i tag
+        return tags.every(tag => card.tags.includes(tag));
+      }
+    });
+  }
+
+  /**
+   * Ottiene statistiche tag (count per tag)
+   */
+  async getTagStats(): Promise<import('@/lib/types/components').TagStat[]> {
+    const allCards = await this.getAll();
+    const tagCounts = new Map<string, number>();
+
+    allCards.forEach(card => {
+      card.tags.forEach(tag => {
+        tagCounts.set(tag, (tagCounts.get(tag) || 0) + 1);
+      });
+    });
+
+    return Array.from(tagCounts.entries())
+      .map(([tag, count]) => ({ tag, count }))
+      .sort((a, b) => b.count - a.count);
+  }
+
+  /**
    * Ottiene statistiche utente
    */
   async getStats(): Promise<UserStats> {

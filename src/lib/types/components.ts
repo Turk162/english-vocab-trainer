@@ -99,3 +99,50 @@ export interface ReviewSummaryProps {
   onReviewMore: () => void;
   onGoHome: () => void;
 }
+
+// Tag Component Types
+export type TagVariant = 'default' | 'selected' | 'removable' | 'filter';
+export type TagSize = 'sm' | 'md' | 'lg';
+
+export interface TagProps {
+  label: string;
+  variant?: TagVariant;
+  size?: TagSize;
+  count?: number;              // Card count per tag (TagFilter)
+  onRemove?: () => void;       // Removable variant
+  onClick?: () => void;        // Selectable tags
+  disabled?: boolean;
+  className?: string;
+}
+
+// TagInput Component
+export interface TagInputProps {
+  value: string[];
+  onChange: (tags: string[]) => void;
+  availableTags?: string[];    // Per autocomplete
+  placeholder?: string;
+  maxTags?: number;
+  label?: string;
+  helperText?: string;
+  error?: string;
+  disabled?: boolean;
+  className?: string;
+}
+
+// TagFilter Component
+export type FilterMode = 'any' | 'all';  // OR vs AND
+
+export interface TagFilterProps {
+  selectedTags: string[];
+  onTagsChange: (tags: string[]) => void;
+  tagStats: TagStat[];
+  filterMode?: FilterMode;
+  onFilterModeChange?: (mode: FilterMode) => void;
+  showCounts?: boolean;
+  className?: string;
+}
+
+export interface TagStat {
+  tag: string;
+  count: number;
+}

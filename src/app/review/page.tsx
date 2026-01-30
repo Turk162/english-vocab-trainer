@@ -56,7 +56,7 @@ export default function ReviewPage() {
   };
 
   const handleAddCards = () => {
-    router.push('/cards/add');
+    router.push('/cards/new');
   };
 
   // LOADING STATE (initial)
