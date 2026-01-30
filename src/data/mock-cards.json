@@ -1,0 +1,509 @@
+[
+  {
+    "id": "cf3c0b44-64f7-4766-a527-892b225c62f9",
+    "front": "accomplish",
+    "back": "completare, realizzare",
+    "context": "We need to accomplish this task by Friday",
+    "contextTranslation": "Dobbiamo completare questo compito entro venerdì",
+    "tags": [
+      "work",
+      "b1"
+    ],
+    "fsrsData": {
+      "due": "2026-01-30T16:35:53.179Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "learning_steps": 0,
+      "state": 0,
+      "last_review": null
+    },
+    "createdAt": "2026-01-30T16:35:53.179Z",
+    "updatedAt": "2026-01-30T16:35:53.179Z"
+  },
+  {
+    "id": "6973cf7b-d1e0-4130-962b-f2758c0b713f",
+    "front": "collaborate",
+    "back": "collaborare",
+    "context": "Our team collaborates with international partners",
+    "contextTranslation": "Il nostro team collabora con partner internazionali",
+    "tags": [
+      "work",
+      "b2"
+    ],
+    "fsrsData": {
+      "due": "2026-01-30T16:35:53.180Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "learning_steps": 0,
+      "state": 0,
+      "last_review": null
+    },
+    "createdAt": "2026-01-30T16:35:53.180Z",
+    "updatedAt": "2026-01-30T16:35:53.180Z"
+  },
+  {
+    "id": "82b06593-6730-4019-aa0d-8e470894425d",
+    "front": "delegate",
+    "back": "delegare",
+    "context": "Good managers know how to delegate responsibilities",
+    "contextTranslation": "I buoni manager sanno come delegare le responsabilità",
+    "tags": [
+      "work",
+      "b2"
+    ],
+    "fsrsData": {
+      "due": "2026-01-30T16:35:53.180Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "learning_steps": 0,
+      "state": 0,
+      "last_review": null
+    },
+    "createdAt": "2026-01-30T16:35:53.180Z",
+    "updatedAt": "2026-01-30T16:35:53.180Z"
+  },
+  {
+    "id": "c3568c0d-8a8b-4902-a191-6b238fe650fe",
+    "front": "explore",
+    "back": "esplorare",
+    "context": "I love to explore new cities when I travel",
+    "contextTranslation": "Amo esplorare nuove città quando viaggio",
+    "tags": [
+      "travel",
+      "b1"
+    ],
+    "fsrsData": {
+      "due": "2026-01-30T16:35:53.180Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "learning_steps": 0,
+      "state": 0,
+      "last_review": null
+    },
+    "createdAt": "2026-01-30T16:35:53.180Z",
+    "updatedAt": "2026-01-30T16:35:53.180Z"
+  },
+  {
+    "id": "cbdcd5d0-635a-4951-be17-5ff2beb8db78",
+    "front": "negotiate",
+    "back": "negoziare",
+    "context": "She negotiated a better price for the hotel room",
+    "contextTranslation": "Ha negoziato un prezzo migliore per la camera d'albergo",
+    "tags": [
+      "work",
+      "travel",
+      "b2"
+    ],
+    "fsrsData": {
+      "due": "2026-01-30T16:35:53.180Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "learning_steps": 0,
+      "state": 0,
+      "last_review": null
+    },
+    "createdAt": "2026-01-30T16:35:53.180Z",
+    "updatedAt": "2026-01-30T16:35:53.180Z"
+  },
+  {
+    "id": "30d81daf-5b8a-43d8-8f0f-fbe2a5c2675f",
+    "front": "reschedule",
+    "back": "riprogrammare",
+    "context": "Can we reschedule the meeting to next week?",
+    "contextTranslation": "Possiamo riprogrammare la riunione alla prossima settimana?",
+    "tags": [
+      "work",
+      "b1"
+    ],
+    "fsrsData": {
+      "due": "2026-01-30T16:35:53.180Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "learning_steps": 0,
+      "state": 0,
+      "last_review": null
+    },
+    "createdAt": "2026-01-30T16:35:53.180Z",
+    "updatedAt": "2026-01-30T16:35:53.180Z"
+  },
+  {
+    "id": "eae3d764-48a5-408d-84f2-4e4ed8ff7b59",
+    "front": "commute",
+    "back": "fare il pendolare",
+    "context": "I commute to work by train every morning",
+    "contextTranslation": "Faccio il pendolare per andare al lavoro in treno ogni mattina",
+    "tags": [
+      "work",
+      "daily-life",
+      "b1"
+    ],
+    "fsrsData": {
+      "due": "2026-01-30T16:35:53.180Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "learning_steps": 0,
+      "state": 0,
+      "last_review": null
+    },
+    "createdAt": "2026-01-30T16:35:53.180Z",
+    "updatedAt": "2026-01-30T16:35:53.180Z"
+  },
+  {
+    "id": "1fd921b0-cd97-4478-bae4-e10d13b8ed3a",
+    "front": "agenda",
+    "back": "ordine del giorno",
+    "context": "What's on the agenda for today's meeting?",
+    "contextTranslation": "Cosa c'è all'ordine del giorno per la riunione di oggi?",
+    "tags": [
+      "work",
+      "b1"
+    ],
+    "fsrsData": {
+      "due": "2026-01-30T16:35:53.180Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "learning_steps": 0,
+      "state": 0,
+      "last_review": null
+    },
+    "createdAt": "2026-01-30T16:35:53.180Z",
+    "updatedAt": "2026-01-30T16:35:53.180Z"
+  },
+  {
+    "id": "085f5568-43ad-425d-a9fa-03c41e78c132",
+    "front": "destination",
+    "back": "destinazione",
+    "context": "Paris is a popular travel destination",
+    "contextTranslation": "Parigi è una destinazione turistica popolare",
+    "tags": [
+      "travel",
+      "b1"
+    ],
+    "fsrsData": {
+      "due": "2026-01-30T16:35:53.180Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "learning_steps": 0,
+      "state": 0,
+      "last_review": null
+    },
+    "createdAt": "2026-01-30T16:35:53.180Z",
+    "updatedAt": "2026-01-30T16:35:53.180Z"
+  },
+  {
+    "id": "113199f1-5a48-465c-adae-620b93db053d",
+    "front": "deadline",
+    "back": "scadenza",
+    "context": "The deadline for this project is next month",
+    "contextTranslation": "La scadenza per questo progetto è il mese prossimo",
+    "tags": [
+      "work",
+      "b1"
+    ],
+    "fsrsData": {
+      "due": "2026-01-30T16:35:53.180Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "learning_steps": 0,
+      "state": 0,
+      "last_review": null
+    },
+    "createdAt": "2026-01-30T16:35:53.180Z",
+    "updatedAt": "2026-01-30T16:35:53.180Z"
+  },
+  {
+    "id": "80ae64b8-059e-4754-b302-8dc0b1b0426c",
+    "front": "itinerary",
+    "back": "itinerario",
+    "context": "I need to plan my travel itinerary before the trip",
+    "contextTranslation": "Devo pianificare il mio itinerario di viaggio prima del viaggio",
+    "tags": [
+      "travel",
+      "b2"
+    ],
+    "fsrsData": {
+      "due": "2026-01-30T16:35:53.180Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "learning_steps": 0,
+      "state": 0,
+      "last_review": null
+    },
+    "createdAt": "2026-01-30T16:35:53.180Z",
+    "updatedAt": "2026-01-30T16:35:53.180Z"
+  },
+  {
+    "id": "f94287a7-cb68-4d0b-a483-78e60d798533",
+    "front": "colleague",
+    "back": "collega",
+    "context": "My colleague helped me finish the report",
+    "contextTranslation": "Il mio collega mi ha aiutato a finire il rapporto",
+    "tags": [
+      "work",
+      "b1"
+    ],
+    "fsrsData": {
+      "due": "2026-01-30T16:35:53.180Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "learning_steps": 0,
+      "state": 0,
+      "last_review": null
+    },
+    "createdAt": "2026-01-30T16:35:53.180Z",
+    "updatedAt": "2026-01-30T16:35:53.180Z"
+  },
+  {
+    "id": "786098fc-05cc-45af-925c-a92e8e3aced1",
+    "front": "beverage",
+    "back": "bevanda",
+    "context": "Would you like a hot or cold beverage?",
+    "contextTranslation": "Preferisci una bevanda calda o fredda?",
+    "tags": [
+      "food",
+      "daily-life",
+      "b1"
+    ],
+    "fsrsData": {
+      "due": "2026-01-30T16:35:53.180Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "learning_steps": 0,
+      "state": 0,
+      "last_review": null
+    },
+    "createdAt": "2026-01-30T16:35:53.180Z",
+    "updatedAt": "2026-01-30T16:35:53.180Z"
+  },
+  {
+    "id": "ea103a0d-fccd-48e0-9cce-6181c169f28d",
+    "front": "cuisine",
+    "back": "cucina (tipo di cibo)",
+    "context": "Italian cuisine is famous around the world",
+    "contextTranslation": "La cucina italiana è famosa in tutto il mondo",
+    "tags": [
+      "food",
+      "travel",
+      "b2"
+    ],
+    "fsrsData": {
+      "due": "2026-01-30T16:35:53.180Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "learning_steps": 0,
+      "state": 0,
+      "last_review": null
+    },
+    "createdAt": "2026-01-30T16:35:53.180Z",
+    "updatedAt": "2026-01-30T16:35:53.180Z"
+  },
+  {
+    "id": "6421296b-8ffe-4dff-a6d5-2c55c9506a7a",
+    "front": "efficient",
+    "back": "efficiente",
+    "context": "She has an efficient way of organizing tasks",
+    "contextTranslation": "Ha un modo efficiente di organizzare i compiti",
+    "tags": [
+      "work",
+      "b2"
+    ],
+    "fsrsData": {
+      "due": "2026-01-30T16:35:53.180Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "learning_steps": 0,
+      "state": 0,
+      "last_review": null
+    },
+    "createdAt": "2026-01-30T16:35:53.180Z",
+    "updatedAt": "2026-01-30T16:35:53.180Z"
+  },
+  {
+    "id": "b98f19e9-1f79-4dbb-b7ab-9b3a8556c988",
+    "front": "exhausted",
+    "back": "esausto, sfinito",
+    "context": "After the long flight, I felt completely exhausted",
+    "contextTranslation": "Dopo il lungo volo, mi sentivo completamente esausto",
+    "tags": [
+      "travel",
+      "daily-life",
+      "b1"
+    ],
+    "fsrsData": {
+      "due": "2026-01-30T16:35:53.180Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "learning_steps": 0,
+      "state": 0,
+      "last_review": null
+    },
+    "createdAt": "2026-01-30T16:35:53.180Z",
+    "updatedAt": "2026-01-30T16:35:53.180Z"
+  },
+  {
+    "id": "693c9d99-b61a-4bc3-a986-5eeba2b127a5",
+    "front": "authentic",
+    "back": "autentico",
+    "context": "We ate at an authentic local restaurant",
+    "contextTranslation": "Abbiamo mangiato in un ristorante locale autentico",
+    "tags": [
+      "food",
+      "travel",
+      "b2"
+    ],
+    "fsrsData": {
+      "due": "2026-01-30T16:35:53.180Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "learning_steps": 0,
+      "state": 0,
+      "last_review": null
+    },
+    "createdAt": "2026-01-30T16:35:53.180Z",
+    "updatedAt": "2026-01-30T16:35:53.180Z"
+  },
+  {
+    "id": "059f8903-b8d2-4f96-9a3e-7fe5beac56d8",
+    "front": "affordable",
+    "back": "conveniente, accessibile",
+    "context": "This hotel is comfortable and affordable",
+    "contextTranslation": "Questo hotel è comodo e conveniente",
+    "tags": [
+      "travel",
+      "b1"
+    ],
+    "fsrsData": {
+      "due": "2026-01-30T16:35:53.180Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "learning_steps": 0,
+      "state": 0,
+      "last_review": null
+    },
+    "createdAt": "2026-01-30T16:35:53.180Z",
+    "updatedAt": "2026-01-30T16:35:53.180Z"
+  },
+  {
+    "id": "4e6d759a-c5bb-4cd3-a6ea-a86db5e2d7fa",
+    "front": "reliable",
+    "back": "affidabile",
+    "context": "He is a reliable employee who always meets deadlines",
+    "contextTranslation": "È un dipendente affidabile che rispetta sempre le scadenze",
+    "tags": [
+      "work",
+      "b2"
+    ],
+    "fsrsData": {
+      "due": "2026-01-30T16:35:53.180Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "learning_steps": 0,
+      "state": 0,
+      "last_review": null
+    },
+    "createdAt": "2026-01-30T16:35:53.180Z",
+    "updatedAt": "2026-01-30T16:35:53.180Z"
+  },
+  {
+    "id": "78437932-74bc-4807-9dd0-9c483d1e0cc0",
+    "front": "overwhelming",
+    "back": "opprimente, travolgente",
+    "context": "The amount of work can be overwhelming sometimes",
+    "contextTranslation": "La quantità di lavoro può essere opprimente a volte",
+    "tags": [
+      "work",
+      "daily-life",
+      "b2"
+    ],
+    "fsrsData": {
+      "due": "2026-01-30T16:35:53.180Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "learning_steps": 0,
+      "state": 0,
+      "last_review": null
+    },
+    "createdAt": "2026-01-30T16:35:53.180Z",
+    "updatedAt": "2026-01-30T16:35:53.180Z"
+  }
+]

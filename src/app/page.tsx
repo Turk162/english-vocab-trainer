@@ -1,8 +1,12 @@
+'use client';
+
+import { useRouter } from 'next/navigation';
 import Container from '@/components/ui/Container';
 import Button from '@/components/ui/Button';
 import Card from '@/components/ui/Card';
 
 export default function Home() {
+  const router = useRouter();
   return (
     <Container className="py-12">
       <div className="text-center mb-12">
@@ -53,8 +57,12 @@ export default function Home() {
       </div>
 
       <div className="flex flex-col sm:flex-row gap-4 justify-center">
-        <Button variant="primary" fullWidth>Start Review</Button>
-        <Button variant="secondary" fullWidth>Browse Cards</Button>
+        <Button variant="primary" fullWidth onClick={() => router.push('/review')}>
+          Start Review
+        </Button>
+        <Button variant="secondary" fullWidth onClick={() => router.push('/cards')}>
+          Browse Cards
+        </Button>
       </div>
     </Container>
   );

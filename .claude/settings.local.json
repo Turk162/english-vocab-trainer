@@ -14,7 +14,12 @@
       "Bash(tree:*)",
       "Bash(npm run dev)",
       "Bash(lsof:*)",
-      "Bash(curl:*)"
+      "Bash(curl:*)",
+      "Bash(npm audit fix:*)",
+      "Bash(npm run type-check:*)",
+      "Bash(npx tsx:*)",
+      "Bash(pkill:*)",
+      "Bash(git push:*)"
     ]
   }
 }
